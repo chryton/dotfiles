@@ -1,5 +1,4 @@
 ack
-keybase
 node
 argon2
 asciinema
@@ -15,12 +14,9 @@ curl-openssl
 pkg-config
 docbook
 python
-python3
 exa
 libplist
-python@2
 libpng
-python@3.8
 flac
 readline
 fontconfig
