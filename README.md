@@ -1,6 +1,6 @@
-# Steve Grunwell's Dotfiles
+# Andrew Mauney's Dotfiles
 
-Just another dotfiles repository. There are many like it, but these are mine. There are also probably many that use that expression. #DealWithIt
+Just another dotfiles repository. There are many like it, but these are mine (but originally stolen from [Steve Grunwell](https://github.com/stevegrunwell). There are also probably many that use that expression. #DealWithIt
 
 Major kudos to [Mathias Bynens](https://github.com/mathiasbynens/dotfiles) for the inspiration and some of the snippets.
 
