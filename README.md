@@ -1,6 +1,6 @@
 # Andrew Mauney's Dotfiles
 
-Just another dotfiles repository. There are many like it, but these are mine (but originally stolen from [Steve Grunwell](https://github.com/stevegrunwell). There are also probably many that use that expression. #DealWithIt
+Just another dotfiles repository. There are many like it, but these are mine (but originally stolen from [Steve Grunwell](https://github.com/stevegrunwell)). There are also probably many that use that expression. #DealWithIt
 
 Major kudos to [Mathias Bynens](https://github.com/mathiasbynens/dotfiles) for the inspiration and some of the snippets.
 
@@ -12,7 +12,7 @@ Clone the repository wherever you'd like, then run `sh install.sh` to run the in
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Steve Grunwell
+Copyright (c) 2020 Andrew Mauney
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
