@@ -1,21 +1,15 @@
 ack
 keybase
 node
-oniguruma
 argon2
 asciinema
-aspell
 openjpeg
-libev
 openssl
 bash-snippets
-boost
-opus
 brotli
 cairo
 cmake
 coreutils
-libimobiledevice
 php
 curl-openssl
 pkg-config
@@ -34,7 +28,6 @@ librsvg
 ripgrep
 rsync
 freetype
-rubberband
 shared-mime-info
 gettext
 git
@@ -44,7 +37,6 @@ tesseract
 gmp
 thefuck
 gnutls
-theora
 tidy-html5
 graphite2
 libzip
@@ -53,7 +45,6 @@ highlight
 lzo
 httpstat
 webp
-icu4c
 makedepend
 wget
 imagemagick
@@ -61,4 +52,3 @@ ios-webkit-debug-proxy
 mitmproxy
 yarn
 jpeg
-msgpack
